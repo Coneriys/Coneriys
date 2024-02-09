@@ -7,7 +7,7 @@ I am Connor - developer from Ukraine
 
 ### 🛠️Tools:
 
-[![Tools](https://skillicons.dev/icons?i=nginx,docker,blender,linux,github)](https://coneriys.one)
+[![Tools](https://skillicons.dev/icons?i=nginx,docker,blender,linux,git)](https://coneriys.one)
 
 ### 💻Frameworks:
 
