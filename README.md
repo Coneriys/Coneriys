@@ -11,4 +11,4 @@ I am Connor - developer from Ukraine
 
 ### 💻Frameworks:
 
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,astro,fastapi)](https://coneriys.one)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,astro)](https://coneriys.one)
